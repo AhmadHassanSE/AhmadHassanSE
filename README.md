@@ -25,3 +25,13 @@ const ahmad = {
   challenge: "Solving problems on LeetCode daily",
   funFact: "I turn coffee into code"
 }
+
+
+https://img.shields.io/badge/c++-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white
+https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E
+https://img.shields.io/badge/html5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/css3-%25231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/mysql-%252300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
+https://img.shields.io/badge/figma-%2523F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
+
