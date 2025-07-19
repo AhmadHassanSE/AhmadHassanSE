@@ -35,3 +35,4 @@ https://img.shields.io/badge/mysql-%252300f.svg?style=for-the-badge&logo=mysql&l
 https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white
 https://img.shields.io/badge/figma-%2523F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white
 
+<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmadhassanse&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadhassanse&layout=compact&langs_count=8&theme=radical"/> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadhassanse&theme=radical"/> </div>
