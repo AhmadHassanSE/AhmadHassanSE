@@ -28,6 +28,12 @@ https://activity-graph.herokuapp.com/graph?username=ahmadhassanse&theme=react-da
 https://github-profile-trophy.vercel.app/?username=ahmadhassanse&theme=radical&no-frame=false&no-bg=true&margin-w=4
 
 
+🌐 Let's Connect
+<p align="left"> <a href="https://twitter.com/ahmad hassan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmad hassan" height="30" width="40" /> </a> <a href="https://linkedin.com/in/ahmad-hassan-a05a082a5" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-hassan" height="30" width="40" /> </a> <a href="https://instagram.com/ft.nahmad" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft.nahmad" height="30" width="40" /> </a> <a href="https://www.leetcode.com/ft-ahmad_hassan" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ft-ahmad_hassan" height="30" width="40" /> </a> <a href="https://discord.gg/ft.nahmad" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ft.nahmad" height="30" width="40" /> </a> </p>
+
+
+✍️ Random Dev Quote
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 ---
 
 ### 🚀 About Me
