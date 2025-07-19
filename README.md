@@ -38,6 +38,8 @@ https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 
 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+<p align="center"> Visitor count<br> <img src="https://profile-counter.glitch.me/ahmadhassanse/count.svg" /> </p> ```
 ### 🚀 About Me
 
 ```javascript
