@@ -273,7 +273,7 @@
   <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116"/>
 </a>
 &nbsp;
-<a href="https://instagram.com/ft.nahmad" target="_blank">
+<a href="https://instagram.com/why__ahmad" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F"/>
 </a>
 &nbsp;
@@ -284,7 +284,7 @@
 <br/><br/>
 
 ### 📬 Reach Me At:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadhassanse@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hranaahmad82@gmail.com)
 
 </div>
 
